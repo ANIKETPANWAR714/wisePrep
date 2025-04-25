@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📚 WisePrep – Smarter Exam Preparation Powered by AI
 
-## Getting Started
+**WisePrep** is a sleek, AI-powered web app that helps students prepare for exams effectively. With real-time guidance from Google Gemini, beautiful UI built with Tailwind CSS and ShadCN-UI, and seamless data management via Firebase Firestore, WisePrep brings smart learning to your fingertips.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 🤖 AI-powered support using Google Gemini
+- 📋 Personalized study task management
+- 📊 Progress tracking and updates
+- 🔔 Smart reminders and suggestions
+- 🧪 Interactive and intuitive UI/UX
+- ☁️ Real-time data with Firebase Firestore
+- 🌙 Light/Dark mode toggle
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠 Tech Stack
 
-## Learn More
+- **Next.js** – React framework with file-based routing
+- **Google Gemini API** – AI assistance
+- **Tailwind CSS** – Modern utility-first CSS
+- **ShadCN-UI** – Beautifully styled UI components
+- **Firebase Firestore** – Realtime database and storage
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🔗 Live Demo
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+🚀 **Try WisePrep now**: [https://wiseprep.vercel.app](https://wiseprep.vercel.app)
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## ✍️ Author
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Built with ❤️ by [Aniket Panwar](https://github.com/your-username)
+
+
